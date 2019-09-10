@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="172" it="0" lt="146" ct="88" ts="1568098865632" s="true" lb="积分成长" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="13176" sby="183" ng="1" na="1"/>
+<httpSample t="0" it="0" lt="0" ct="0" ts="1568098865816" s="false" lb="HTTP请求" rc="Non HTTP response code: org.apache.http.client.ClientProtocolException" rm="Non HTTP response message: URI does not specify a valid host name: http:/" tn="线程组 1-1" dt="text" by="1033" sby="0" ng="1" na="1"/>
+<httpSample t="28" it="0" lt="28" ct="0" ts="1568098865818" s="true" lb="我的发布" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="1457" sby="198" ng="1" na="1"/>
+
+</testResults>
